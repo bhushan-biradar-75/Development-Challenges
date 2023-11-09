@@ -1,0 +1,11 @@
+body{
+    background-color: #a2d2ff;
+}
+.container-fluid{
+    background-color: #bde0fe;
+}
+#sec-one{
+    display: grid;
+    place-content: center;
+    margin-top: 5%;
+}
